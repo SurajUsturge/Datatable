@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Cucumber_dataTable</name>
+=======
+	<name>cucumber_File_run_using_feature_file</name>
+>>>>>>> branch 'master' of https://github.com/SurajUsturge/Cucumber-file-run-using-feature-file.git
 	<comment></comment>
 	<projects>
 	</projects>
